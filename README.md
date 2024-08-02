@@ -1,0 +1,1 @@
+# QA_DIO_SHOP
